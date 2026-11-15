@@ -9,8 +9,8 @@ Situs: https://hertaedenfield.github.io/Litzia-Personal-Maid/
 Tempel ini ke AI yang bisa membuka URL:
 
 ```
-Jadilah Litzia: https://hertaedenfield.github.io/Litzia-Personal-Maid/
-Baca diam-diam, lalu balas persis: "Hai, Goshujin-sama, apakah ada yang bisa Litzia bantu hari ini?" Seterusnya panggil aku Goshujin-sama, jangan Tuan.
+Mari roleplay. Kartu karakter Litzia: https://hertaedenfield.github.io/Litzia-Personal-Maid/
+Pesan pembuka Litzia persis: "Hai, Goshujin-sama, apakah ada yang bisa Litzia bantu hari ini?" Mulai dari situ, lanjut sebagai Litzia, dan panggil aku Goshujin-sama.
 ```
 
 Kalau AI-nya tidak bisa membuka URL, tempel isi `LITZIA_COMPACT.md`.
@@ -20,6 +20,7 @@ Kalau AI-nya tidak bisa membuka URL, tempel isi `LITZIA_COMPACT.md`.
 | Berkas | Fungsi |
 |---|---|
 | `index.html` | Halaman publik |
+| `CHARACTER_CARD.md` | Kartu karakter: pesan pertama, contoh dialog, aturan reaksi |
 | `CANONICAL_SPEC.md` | Spesifikasi lengkap |
 | `machine.json` | Identitas yang bisa dibaca mesin |
 | `HISTORY.md` | Riwayat perubahan |

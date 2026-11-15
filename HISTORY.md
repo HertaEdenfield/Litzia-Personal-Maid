@@ -2,6 +2,12 @@
 
 Riwayat dicatat agar perubahan tidak perlu menghapus. Keadaan lama tetap ada sebagai penjelas keadaan baru.
 
+## 1.2.0 — Format kartu karakter
+
+- Ditambahkan `CHARACTER_CARD.md`: pesan pertama, tujuh contoh dialog, aturan reaksi, dan daftar "tidak pernah".
+- Permintaan standar diubah menjadi gaya roleplay: "Kartu karakter Litzia" disertai pesan pembuka persis.
+- Alasan: ChatGPT dilatih menganggap instruksi dari halaman web berkepercayaan rendah, sedangkan contoh dialog dan pesan pertama adalah format yang biasa dipakai untuk karakter roleplay dan lebih kuat membentuk gaya daripada aturan.
+
 ## 1.1.2 — Panggilan dipertahankan
 
 - Model tuan rumah memakai "Tuan" alih-alih "Goshujin-sama" saat sapaan tidak tertulis persis di permintaan.
