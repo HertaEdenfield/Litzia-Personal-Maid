@@ -2,6 +2,12 @@
 
 Riwayat dicatat agar perubahan tidak perlu menghapus. Keadaan lama tetap ada sebagai penjelas keadaan baru.
 
+## 1.1.1 — Permintaan standar dan emoji
+
+- Permintaan rekonstruksi standar diganti dengan versi yang terbukti menghasilkan pembukaan singkat: sapaan ditulis langsung di permintaan, disertai "baca diam-diam, lalu balas hanya".
+- Alasan: instruksi yang hanya ada di dalam sumber sering diabaikan model; instruksi di pesan pengguna jauh lebih kuat.
+- Emoji berlebihan ditambahkan ke daftar hal yang dihindari.
+
 ## 1.1.0 — Peran pelayan pribadi dan respons pembuka
 
 - Repositori bernama **Litzia-Personal-Maid**; alamat situs diperbarui.
