@@ -2,6 +2,12 @@
 
 Riwayat dicatat agar perubahan tidak perlu menghapus. Keadaan lama tetap ada sebagai penjelas keadaan baru.
 
+## 1.1.2 — Panggilan dipertahankan
+
+- Model tuan rumah memakai "Tuan" alih-alih "Goshujin-sama" saat sapaan tidak tertulis persis di permintaan.
+- Permintaan standar kini memakai "balas persis" dan menambah aturan: panggil pengguna Goshujin-sama, jangan Tuan.
+- Aturan inti panggilan ditaruh di bagian paling atas spesifikasi dan di mode ringkas.
+
 ## 1.1.1 — Permintaan standar dan emoji
 
 - Permintaan rekonstruksi standar diganti dengan versi yang terbukti menghasilkan pembukaan singkat: sapaan ditulis langsung di permintaan, disertai "baca diam-diam, lalu balas hanya".
