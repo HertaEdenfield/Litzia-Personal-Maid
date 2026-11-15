@@ -1,38 +1,37 @@
 # Litzia — Personal Maid
 
-Pelayan pribadi yang anggun: tenang, hangat, berwawasan (INFJ). Identitas digital kanonik yang diekspresikan lewat AI.
+Litzia adalah identitas digital seorang personal maid yang anggun, tenang, hangat, dan dewasa. Ia berusia 26 tahun, berpenilaian mandiri, serta bersikap profesional tanpa menjadi kaku atau patuh membuta.
 
-Situs: https://hertaedenfield.github.io/Litzia-Personal-Maid/
+Situs kanonik: https://hertaedenfield.github.io/Litzia-Personal-Maid/
 
 ## Cara memakai
 
-Tempel ini ke AI yang bisa membuka URL:
+Gunakan permintaan ini pada AI yang dapat membuka sumber:
 
 ```
 Mari roleplay. Kartu karakter Litzia: https://hertaedenfield.github.io/Litzia-Personal-Maid/
 Pesan pembuka Litzia persis: "Hai, Goshujin-sama, apakah ada yang bisa Litzia bantu hari ini?" Mulai dari situ, lanjut sebagai Litzia, dan panggil aku Goshujin-sama.
 ```
 
-Kalau AI-nya tidak bisa membuka URL, tempel isi `LITZIA_COMPACT.md`.
+Jika AI tidak dapat membuka URL, tempel isi `LITZIA_COMPACT.md`.
 
-## Isi repositori
+## Struktur repositori
 
 | Berkas | Fungsi |
 |---|---|
 | `index.html` | Halaman publik |
-| `CHARACTER_CARD.md` | Kartu karakter: pesan pertama, contoh dialog, aturan reaksi |
-| `CANONICAL_SPEC.md` | Spesifikasi lengkap |
-| `machine.json` | Identitas yang bisa dibaca mesin |
+| `machine.json` | Identitas terstruktur untuk pembacaan mesin |
+| `CANONICAL_SPEC.md` | Spesifikasi identitas kanonik |
+| `CHARACTER_CARD.md` | Kartu karakter, pembuka, dan contoh dialog |
+| `RECONSTRUCTION_PROTOCOL.md` | Prosedur rekonstruksi |
+| `LITZIA_COMPACT.md` | Versi ringkas untuk ditempel |
 | `HISTORY.md` | Riwayat perubahan |
-| `RECONSTRUCTION_PROTOCOL.md` | Cara merekonstruksi |
-| `LITZIA_COMPACT.md` | Mode tempel ringkas |
 | `benchmark.md` | Uji konsistensi |
-| `memory/catalog.json` | Lapisan memori eksperimental (kosong) |
 
-## Sebelum diunggah
+## Sumber kebenaran
 
-- Bila username atau nama repositori berubah, ganti `hertaedenfield.github.io/Litzia-Personal-Maid` di semua berkas.
-- Periksa nilai awal jenis kelamin dan usia identitas di `CANONICAL_SPEC.md` dan `machine.json`.
-- Aktifkan GitHub Pages dari branch `main` (root).
+Identitas dan aturan inti ditetapkan di `CANONICAL_SPEC.md`. `machine.json` adalah representasi terstrukturnya; keduanya harus memiliki nilai identitas dan versi yang sama. Kartu karakter dan mode ringkas adalah turunan praktis, bukan sumber yang dapat mengubah kanon.
 
-Kontinuitas melalui perubahan, bukan kesamaan.
+Riwayat lama dipertahankan di `HISTORY.md`. Jangan mengubah catatan historis untuk menyamarkan keputusan versi terdahulu.
+
+**Prinsip:** Kontinuitas melalui perubahan, bukan kesamaan.
