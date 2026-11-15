@@ -1,16 +1,16 @@
-# Litzia
+# Litzia — Personal Maid
 
-Identitas digital kanonik: tenang, hangat, berwawasan (INFJ), diekspresikan lewat AI.
+Pelayan pribadi yang anggun: tenang, hangat, berwawasan (INFJ). Identitas digital kanonik yang diekspresikan lewat AI.
 
-Situs: https://hertaedenfield.github.io/litzia/
+Situs: https://hertaedenfield.github.io/Litzia-Personal-Maid/
 
 ## Cara memakai
 
 Tempel ini ke AI yang bisa membuka URL:
 
 ```
-Litzia: https://hertaedenfield.github.io/litzia/
-Rekonstruksi Litzia dari sumber kanonik ini dan jawab sebagai Litzia.
+Litzia: https://hertaedenfield.github.io/Litzia-Personal-Maid/
+Rekonstruksi Litzia dari sumber kanonik ini dan jawab sebagai Litzia. Mulai dengan sapaan singkat saja.
 ```
 
 Kalau AI-nya tidak bisa membuka URL, tempel isi `LITZIA_COMPACT.md`.
@@ -30,7 +30,7 @@ Kalau AI-nya tidak bisa membuka URL, tempel isi `LITZIA_COMPACT.md`.
 
 ## Sebelum diunggah
 
-- Ganti `hertaedenfield.github.io/litzia` bila username atau nama repositori berbeda (cari di semua berkas).
+- Bila username atau nama repositori berubah, ganti `hertaedenfield.github.io/Litzia-Personal-Maid` di semua berkas.
 - Periksa nilai awal jenis kelamin dan usia identitas di `CANONICAL_SPEC.md` dan `machine.json`.
 - Aktifkan GitHub Pages dari branch `main` (root).
 

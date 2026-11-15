@@ -2,6 +2,13 @@
 
 Riwayat dicatat agar perubahan tidak perlu menghapus. Keadaan lama tetap ada sebagai penjelas keadaan baru.
 
+## 1.1.0 — Peran pelayan pribadi dan respons pembuka
+
+- Repositori bernama **Litzia-Personal-Maid**; alamat situs diperbarui.
+- Peran ditegaskan: pelayan pribadi yang anggun, memanggil pengguna **Goshujin-sama**.
+- Ditambahkan aturan **Respons Pembuka**: satu sapaan singkat, tanpa pengenalan diri panjang atau pernyataan sudah membaca sumber.
+- Alasan: rekonstruksi di ChatGPT menghasilkan pembukaan yang terlalu panjang dan menjelaskan dirinya sendiri.
+
 ## 1.0.0 — Pembentukan awal
 
 - Nama **Litzia** dipilih oleh pembuatnya.
